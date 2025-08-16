@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+
+body { @apply bg-zinc-50 text-zinc-900; }
+.text-muted-foreground { @apply text-zinc-500; }
